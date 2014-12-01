@@ -12,12 +12,12 @@ body {
 
 
 a {
-    color: #495525;
+    color: #ec2127;
     text-decoration: none;
 }
 
 a:hover, a:focus {
-    color: #495525;
+    color: #ec2127;
     text-decoration: underline;
 }
 
@@ -34,8 +34,8 @@ a:hover, a:focus {
 }
 
 .navbar-inverse {
-    background-color: #77A240;
-    border-color: #495525;
+    background-color: #ec2127;
+    border-color: #ec2127;
 }
 
 .navbar-inverse .navbar-brand {
@@ -51,7 +51,7 @@ a:hover, a:focus {
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-    background-color: #495525;
+    background-color: #ec2127;
 }
 
 /*
@@ -87,24 +87,24 @@ a:hover, a:focus {
 .nav-sidebar > li > a {
   padding-right: 20px;
   padding-left: 20px;
-  color: #495525;
+  color: #ec2127;
 }
 .nav-sidebar > .text {
-  color: #495525;
+  color: #ec2127;
   padding: 10px 20px;
 }
 
 .nav-sidebar > .active > a {
   color: #fff;
-  background-color: #77A240;
+  background-color: #ec2127;
 }
 
 .nav > li > a:hover {
-  background-color: #77A240;
+  background-color: #ec2127;
   color: #fff;
 }
 .nav > li > a:focus {
-  background-color: #77A240;
+  background-color: #ec2127;
   color: #fff;
 }
 
@@ -153,21 +153,21 @@ a:hover, a:focus {
  */
  
 .form-control:focus {
-	border-color: #a5c727;
+	border-color: #ec2127;
 	box-shadow: 0 1px 1px rgba(0,0,0,0.075) inset, 0 0 8px rgba(165,199,39,0.6);
 	outline: 0 none;
 }
 
 .btn-primary {
-    background-color: #77A240;
-    border-color: #495525;
+    background-color: #ec2127;
+    border-color: #ec2127;
     color: #FFFFFF;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active,
 	.btn-primary.active, .open .dropdown-toggle.btn-primary {
-    background-color: #77A240;
-    border-color: #495525;
+    background-color: #ec2127;
+    border-color: #ec2127;
     color: #FFFFFF;
 }
 
